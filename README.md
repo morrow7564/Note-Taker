@@ -1,55 +1,54 @@
-# **Note Taker**
- 
- 
-  ### Created by 
-  
-  Morrow7564
+# Note Taker
 
-  ## Description
- 
-  This application can be used to write, save, and delete notes.
-  
-  ## Table of Contents
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  * [Installation] 
+## Description 
+For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
-  * [Usage] 
-  
-  * [License] 
-  
-  * [Contributing] 
-  
-  * [Tests] 
-  
-  *[Questions]
+## User Story
 
-  ## Installation
-  *Steps required to install project and how to get the development environment running:*
+AS A user, I want to be able to write and save notes
+I WANT to be able to delete notes I've written before
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-  Npm i
 
-  ## Usage 
-  *Instructions and examples for use*
-  
-  The user can create a new note by clicking 'Get Started' and filling out the note title and the note text which will then allow the user to click the save icon in the top right corner. Once saved, the note will appear to the left sidebar and can be viewed when clicked on. Notes can be deleting by clicking on the trash can icon.
+### App screenshot
 
-  ## License
-  *The License you used for the project*
- 
-  ![GitHub license](https://img.shields.io/badge/license-None-blue.svg
+![AppPhoto](public/assets/image.png)   
 
-  ## contributors
-  *If you are going to contribute it, you can follow these guidelines for how to do so*
-  
-  None
+## Table of contents
 
-  ## Testing
-  *Tests for application and how to run them:*
-  
-  None
+- [Description](#Description)
+- [Usage](#Usage)
+- [Technologies](#Technologies)
+- [Licence](#Licence)
+- [Repository Link](#Repository)
+- [GitHub Info](#GitHub) 
 
-  ## Questions 
-  *For any questions, please contact me with the information below*
-   
-  Email: Morrow7564@gmail.com
-  GitHub: Morrow7564
+## Usage
+
+Go to [Note Taker](https://homework10note.herokuapp.com/) 
+
+## Technologies
+* HTML
+* JavaScript
+* Node.js
+* Express
+
+
+
+
+## Licence
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+## Repository
+
+- [Project Repo](https://github.com/morrow7564/Note-Taker)
+
+
+## GitHub
+
+- Christopher Morrow
+- [GitHub Profile](https://github.com/morrow7564)
